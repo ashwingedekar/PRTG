@@ -1,0 +1,4 @@
+ID,MAX SPEED,MAX SPEED RAW,MAX SPEED DATE TIME,THRESHOLD MESSAGE (MAX),MIN SPEED,MIN SPEED RAW,MIN SPEED DATE TIME,THRESHOLD MESSAGE (MIN)
+9930,53 Mbit/s,6604586.0643,09-02-2024 16:10:32,MAX SPEED for ID 9930 is within both Upper Error Limit(130.0 Mbit/s) and Upper Warning Limit(100.0 Mbit/s),0.06 Mbit/s,7008.7,09-02-2024 18:57:32,Error: Lower error limit or warning limit not set for ID 9930
+9619,448 Mbit/s,55951920.7207,09-02-2024 14:00:10,MAX SPEED for ID 9619 is within both Upper Error Limit(1910.0 Mbit/s) and Upper Warning Limit(1850.0 Mbit/s),46 Mbit/s,5699698.1,09-02-2024 18:13:40,MIN SPEED for ID 9619 crosses Lower Warning Limit(2.0 Mbit/s)
+10119,2.77 Mbit/s,346578.6,09-02-2024 18:43:05,Error: Upper error limit or warning limit not set for ID 10119,< 0.01,592.5667,09-02-2024 15:43:05,Error: Lower error limit or warning limit not set for ID 10119

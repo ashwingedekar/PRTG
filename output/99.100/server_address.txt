@@ -1,0 +1,3 @@
+server=prtg-99-100.comtelindia.com:10443
+username=Ashwin.Gedekar
+passhash=3630858118
